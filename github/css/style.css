@@ -30,7 +30,7 @@ strong {
     vertical-align: middle;
 }
 .form {
-    border: 5px solid red;
+    border: 5px solid green;
     height: 300px;
     padding: 15px;
 }
@@ -53,7 +53,7 @@ strong {
     height: 60px;
     border: none;
     margin-top: 10px;
-    background-color: red;
+    background-color: green;
     color: white;
     font-size: 18px;
     text-align: center;
